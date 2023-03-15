@@ -1,0 +1,27 @@
+.MenuItemLi{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.MenuItemLi a{
+    color: #9e9e9e;
+    text-decoration: none;
+    height: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    display: block;
+}
+
+.MenuItemLi a:hover, .MenuItemLi a:active,.MenuItemLi a.active{
+    cursor: pointer;
+    color: #01eef6d1;
+
+
+}
+
+
+
+
