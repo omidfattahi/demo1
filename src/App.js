@@ -15,7 +15,6 @@ function App() {
     <Toolbar/>
     
     <Routes>
-      
       <Route  path="/" index Component={HomePage} />
       <Route  path="/about"  Component={About} />
       <Route  path="/addstudent"  Component={AddStudent} />

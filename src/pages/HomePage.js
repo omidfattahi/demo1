@@ -123,7 +123,7 @@ const HomePage = (props) =>{
 
 
     return(
-         <React.Fragment>
+         <>
 
       <input type="text"  value={searchBarValue} onChange={searchFilterFunction}  ref = {inputEl} style={{marginTop:"80px"}} />
       
@@ -151,7 +151,7 @@ const HomePage = (props) =>{
 
 
 
-         </React.Fragment>
+         </>
 
 
 

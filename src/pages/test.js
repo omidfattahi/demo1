@@ -8,6 +8,7 @@ export default function test() {
 
 
 
+console.log(first)
 
 
 skdfgoisdfgi
@@ -25,6 +26,15 @@ m1(10 , 20);
 
 ///////////////////////////////css
 
+nav  {
+
+}
+
+
+nav > ul {
+
+}
+
 nav > ul > li {
 
 }
@@ -33,11 +43,11 @@ nav > ul > li {
 /////////////////////////////////sass
 
 nav {
-
+aaaaaaaaaaa
     ul {
-
+aaaaaaaaaaaaaaaa
         li{
-             
+             aaaaaaa
         }
     }
 }
